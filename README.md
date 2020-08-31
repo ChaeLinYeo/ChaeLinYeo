@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 -->
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://chaelinyeo.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:gomgomtoto@gmail.com)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90)
