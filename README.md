@@ -1,10 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=  ____  _   _     _     _____  _      ___  _   _ 
- / ___|| | | |   / \   | ____|| |    |_ _|| \ | |
-| |    | |_| |  / _ \  |  _|  | |     | | |  \| |
-| |___ |  _  | / ___ \ | |___ | |___  | | | |\  |
- \____||_| |_|/_/   \_\|_____||_____||___||_| \_|
-                                                 &fontSize=50
-)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChaeLinYeo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>
 [![ChaLin's github stats](https://github-readme-stats.vercel.app/api?username=ChaeLinYeo)](https://github.com/anuraghazra/github-readme-stats)
 ### 💬 About me : [https://chaelinyeo.github.io/aboutme/AboutMe/](https://chaelinyeo.github.io/aboutme/AboutMe/)
